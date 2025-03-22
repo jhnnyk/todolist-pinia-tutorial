@@ -3,6 +3,8 @@ import TodoApp from './components/TodoApp.vue'
 </script>
 
 <template>
+  <RouterView />
+
   <TodoApp />
 </template>
 
